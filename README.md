@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. Add more line after rebashing
 
 ## Introduction
 This is the introduction of the project
