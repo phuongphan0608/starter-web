@@ -8,3 +8,7 @@ This is the introduction of the project
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Deployment
+
+## How to contribute
