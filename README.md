@@ -22,3 +22,6 @@ the End.
 
 ## Comparison
 this text will be added to stage
+
+## Copyright
+All rights reserved.
