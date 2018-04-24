@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+	Thank to the instructor
     <name>
 
 # TECHNOLOGY COLOPHON
