@@ -1,1 +1,1 @@
-this is a newfile created from Remote
+this file is modified and save to a stash
